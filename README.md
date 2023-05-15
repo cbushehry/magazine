@@ -1,0 +1,2 @@
+# css-magazine
+freeCodeCamp Project
